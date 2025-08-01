@@ -1,11 +1,11 @@
 # 💫 About Me
 
-👋 Hi! I’m a Full-Stack Developer and Development Manager with over 10 years of experience building scalable web and mobile applications. I’ve led international projects, focusing on full-cycle development, system architecture, team leadership, and complex project architecture, including Most of the payment method services. Third Party APIs, etc.
+👋 Hi! I’m a Full-Stack Developer and Development Manager with over 15 years of experience building scalable web and mobile applications. I’ve led international projects, focusing on full-cycle development, system architecture, team leadership, and complex project architecture, including Most of the payment method services. Third Party APIs, etc.
 
 🛠️ **Tech Focus**  
 - **Frontend**: Vue 3, Next.js, React.js 
 - **Backend**: NestJS, Node.js, Laravel, .NET Core  
-- **Databases & Tools**: MySQL, Postgresql, MongoDB, Git, Bitbucket, GitHub, CI/CD, TDD (Test driven Development)  
+- **Databases & Tools**: MySQL, Postgresql, MongoDB, Git, Bitbucket, GitHub, CI/CD, TDD (Test Driven Development)  
 - **Languages**: PHP, JavaScript, C#, Python
 - **OS**: Windows, Ubuntu, MacOS
 
