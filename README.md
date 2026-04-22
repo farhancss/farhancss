@@ -185,9 +185,7 @@ I’m always open to:
 ## 🏆 GitHub Profile Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=farhancss&theme=darkhub&no-frame=true&margin-w=10)
-``
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=farhancss&label=Profile%20views&color=0e75b6&style=flat)
-``
 
