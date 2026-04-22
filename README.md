@@ -1,35 +1,108 @@
 # 💫 About Me
 
-👋 Hi! I'm a Full-Stack Developer and Development Manager with over 15 years of experience building scalable web and mobile applications. I've led international projects, focusing on full-cycle development, system architecture, team leadership, and complex project architecture, including Most of the payment method services. Third Party APIs, etc.
+👋 Hi, I’m **Farhan Ahmed** — a **Technology Lead, Full‑Stack Architect, and Agentic AI Enthusiast** with **15+ years of experience** designing, building, and scaling complex web platforms and engineering teams.
 
-🛠️ **Tech Focus**  
-- **Frontend**: Vue 3, Next.js, React.js 
-- **Backend**: NestJS, Node.js, Laravel, .NET Core  
-- **Databases & Tools**: MySQL, Postgresql, MongoDB, Git, Bitbucket, GitHub, CI/CD, TDD (Test Driven Development)  
-- **Languages**: PHP, JavaScript, C#, Python
-- **OS**: Windows, Ubuntu, MacOS
+I specialize in **end‑to‑end system ownership** — from architecture and development to delivery, automation, and long‑term scalability. I’ve led **international teams**, shipped **payment‑critical systems**, integrated **high‑risk third‑party services**, and modernized legacy platforms into **cloud‑native, AI‑ready solutions**.
 
-📌 I'm passionate about:
-- Writing clean, maintainable, and human-readable code
-- Building high-performance, user-centric solutions
-- Leading teams and mentoring junior developers
-- Adopting modern frameworks and tools to boost productivity
+Today, my focus goes beyond traditional full‑stack development into **Agentic AI systems**, **intelligent automation**, and **AI‑assisted decision workflows**.
 
-📊 Currently diving deeper into **Python** and **Data Analysis** to complement my full-stack capabilities with data-driven development.
+---
 
-💬 Feel free to reach out — I'm always open to discussing new ideas, tech, or collaborations.
+## 🚀 What I Do Best
+
+- 🏗️ **System Architecture & Technical Leadership**
+  - Designing scalable, secure, and maintainable architectures
+  - Defining engineering standards, workflows, and governance
+  - Owning technical direction across frontend, backend, and DevOps
+
+- 🤖 **Agentic AI & Intelligent Systems**
+  - Building **AI agents** that reason, plan, and execute tasks
+  - Integrating **LLMs** into real products (not demos)
+  - AI‑driven automation, data extraction, analytics, and workflows
+  - Copilot & developer‑productivity automation
+
+- 🔁 **Full‑Cycle Product Development**
+  - Requirement analysis → architecture → implementation → scale
+  - High‑availability systems, payment flows, and integrations
+  - Performance, security, and reliability as first‑class citizens
+
+- 👥 **Team Leadership & Mentorship**
+  - Leading developers, QA, and DevOps teams
+  - Mentoring engineers toward senior & lead roles
+  - Building accountable, high‑output engineering cultures
+
+---
+
+## 🧠 AI & Automation Focus
+
+I actively work with and explore:
+
+- **Agentic AI architectures** (planner–executor, tools, memory)
+- **LLMs** for:
+  - Intelligent data extraction
+  - Workflow automation
+  - Developer tooling & copilots
+  - Business process optimization
+- **Python** for AI, automation, and data analysis
+- AI‑assisted QA, CI/CD, and operational intelligence
+
+> My goal is to **blend strong engineering fundamentals with AI‑first thinking** — building systems that don’t just run, but *think and adapt*.
+
+---
+
+## 🛠️ Tech Focus
+
+### Frontend
+- Vue 3, Nuxt, React.js, Next.js
+- TailwindCSS, Vuetify, Bootstrap
+
+### Backend
+- NestJS, Node.js, Laravel, .NET Core
+- REST APIs, real‑time systems, background workers
+
+### Databases & Infrastructure
+- MySQL, PostgreSQL, MongoDB, Redis
+- AWS, Azure, DigitalOcean, Firebase, Cloudflare
+- CI/CD, GitHub Actions, GitLab CI, Bitbucket Pipelines
+
+### Languages
+- JavaScript / TypeScript
+- PHP
+- C#
+- **Python (AI, automation, data analysis)**
+
+### Engineering Practices
+- Clean Architecture
+- TDD / Test‑Driven Development
+- Secure payment systems & third‑party integrations
+- DevOps‑first mindset
+
+---
+
+## 📌 I Care Deeply About
+
+- Clean, readable, and maintainable code
+- Long‑term scalability over short‑term hacks
+- Engineer productivity and developer experience
+- Using AI to **augment humans**, not replace thinking
+- Building systems that survive real‑world usage
+
+---
+
+## 💬 Let’s Connect
+
+I’m always open to:
+- Architecture discussions
+- AI & Agentic systems
+- Technical leadership & scaling teams
+- Complex system challenges
 
 ---
 
 ## 🌐 Connect With Me
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farhancss)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farhancss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farhancss)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@farhancss)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/farhancss)
 
----
 
 # 💻 Tech Stack
 
