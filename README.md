@@ -175,3 +175,19 @@ I’m always open to:
 ---
 ![GitHub Streak](https://streak-stats.demolab.com/?user=farhancss&theme=dark&hide_border=false)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+## 📈 Contribution Activity
+
+![Farhan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=farhancss&bg_color=0d1117&color=58a6ff&line=58a6ff&point=1f6feb&hide_border=true)
+
+---
+## 🏆 GitHub Profile Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=farhancss&theme=darkhub&no-frame=true&margin-w=10)
+``
+
+---
+![Profile Views](https://komarev.com/ghpvc/?username=farhancss&label=Profile%20views&color=0e75b6&style=flat)
+``
+
